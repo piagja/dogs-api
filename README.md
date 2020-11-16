@@ -1,2 +1,2 @@
-# dogs-api
-Dogs API for training purpose
+# Very Simple Dogs Random Image API
+Dogs API for training purpose.
